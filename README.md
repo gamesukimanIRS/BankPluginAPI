@@ -28,8 +28,8 @@ A./bankコマンドを追加。
 moneyをexpに置き換えると経験値版ATMできるよ。
 
 Q.API詳しく教えるんだよあくしろよ
-```Java
-  ##APIコード##
+```php:APIコード
+  ##APIコード##
 //$this->bankAPIはこのプラグインとしてね
 
 $this->bankAPI->addMoneyBank("プレイヤー名",値段);//プレイヤー名の口座に値段を追加
