@@ -28,7 +28,7 @@ A./bankコマンドを追加。
 moneyをexpに置き換えると経験値版ATMできるよ。
 
 Q.API詳しく教えるんだよあくしろよ
-```php:APIコード
+```php :APIコード
   ##APIコード##
 //$this->bankAPIはこのプラグインとしてね
 
