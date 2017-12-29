@@ -77,9 +77,9 @@ A.(＾ω＾)ﾆｺﾆｺ(威圧)
 ・bankplugin-v1_0_0- v1-2 旧API(bool無)のPocketMoneyバージョン  
 [![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/BankPluginAPI/bankpluginv1-2)](https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI/bankpluginv1-2)  
 ・bankplugin-v1_0_0- v2-1 新API(bool有)のEconomyバージョン  
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/BankPluginAPI/bankplugin(NewApi)v2-1](https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI/bankplugin(NewApi)v2-1)  
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/BankPluginAPI/bankpluginNewApiv2-1)](https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI/bankplugin(NewApi)v2-1)  
 ・bankplugin-v1_0_0- v2-2 新API(bool有)のPocketMoneyバージョン  
-[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/BankPluginAPI/bankplugin(NewApi)v2-2](https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI/bankplugin(NewApi)v2-2)  
+[![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/BankPluginAPI/bankpluginNewApiv2-2)](https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI/bankplugin(NewApi)v2-2)  
 
 の4種類がありますが、今後日本の開発者様の経済API対応バージョンも作成する予定です。  
 
