@@ -1,0 +1,13 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI
+branches:
+- master
+projects:
+  bankplugin-v1_0_0-v1-1:
+    path: bankplugin-v1_0_0-v1-1/
+  bankplugin-v1_0_0-v1-2:
+    path: bankplugin-v1_0_0-v1-2/
+  bankplugin-v1_0_0-v2(NewApi)-1:
+    path: bankplugin-v1_0_0-v2(NewApi)-1/
+  bankplugin-v1_0_0-v2(NewApi)-2:
+    path: bankplugin-v1_0_0-v2(NewApi)-2/
+...
