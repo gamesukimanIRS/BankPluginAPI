@@ -74,14 +74,14 @@ A.(＾ω＾)ﾆｺﾆｺ(威圧)
 
 ・bankplugin-v1_0_0- v1-1 旧API(bool無)のEconomyバージョン  
 [![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/BankPluginAPI/bankpluginv1-1)](https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI/bankpluginv1-1)  
-・bankplugin-v1_0_0- v1-2 旧API(bool無)のPocketMoneyバージョン
+・bankplugin-v1_0_0- v1-2 旧API(bool無)のPocketMoneyバージョン  
 [![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/BankPluginAPI/bankpluginv1-2)](https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI/bankpluginv1-2)  
 ・bankplugin-v1_0_0- v2-1 新API(bool有)のEconomyバージョン  
 [![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/BankPluginAPI/bankplugin(NewApiv2-1)](https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI/bankplugin(NewApi)v2-1)  
 ・bankplugin-v1_0_0- v2-2 新API(bool有)のPocketMoneyバージョン  
 [![PoggitCI Badge](https://poggit.pmmp.io/ci.badge/gamesukimanIRS/BankPluginAPI/bankplugin(NewApiv2-2)](https://poggit.pmmp.io/ci/gamesukimanIRS/BankPluginAPI/bankplugin(NewApi)v2-2)  
 
-の4種類がありますが、今後日本の開発者様の経済API対応バージョンも作成する予定です。
+の4種類がありますが、今後日本の開発者様の経済API対応バージョンも作成する予定です。  
 
 
 [ダウンロード(共有フォルダ形式)](https://www.dropbox.com/sh/iac5zud4tupi321/AAASFHA4yiFWSw0-plZdPwfda?dl=0)
